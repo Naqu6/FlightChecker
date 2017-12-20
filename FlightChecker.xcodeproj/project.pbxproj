@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		923487951FEAE93500BF255D /* images in Resources */ = {isa = PBXBuildFile; fileRef = 923487941FEAE93500BF255D /* images */; };
 		92EC922F1FB011C500F661E8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92EC922E1FB011C500F661E8 /* AppDelegate.swift */; };
 		92EC92311FB011C500F661E8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92EC92301FB011C500F661E8 /* ViewController.swift */; };
 		92EC92341FB011C500F661E8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 92EC92321FB011C500F661E8 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		923487941FEAE93500BF255D /* images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = images; sourceTree = "<group>"; };
 		92EC922B1FB011C500F661E8 /* FlightChecker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlightChecker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		92EC922E1FB011C500F661E8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		92EC92301FB011C500F661E8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 		92EC922D1FB011C500F661E8 /* FlightChecker */ = {
 			isa = PBXGroup;
 			children = (
+				923487941FEAE93500BF255D /* images */,
 				92EC922E1FB011C500F661E8 /* AppDelegate.swift */,
 				92EC92301FB011C500F661E8 /* ViewController.swift */,
 				92EC92321FB011C500F661E8 /* Main.storyboard */,
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				923487951FEAE93500BF255D /* images in Resources */,
 				92EC92391FB011C500F661E8 /* LaunchScreen.storyboard in Resources */,
 				92EC92361FB011C500F661E8 /* Assets.xcassets in Resources */,
 				92EC92341FB011C500F661E8 /* Main.storyboard in Resources */,
